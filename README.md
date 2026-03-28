@@ -19,8 +19,7 @@ Features
 ### 1. Clone repository
 
 ```bash
-git clone <your-repo-url>
-cd fastapi-auth-service
+git clone https://github.com/AnshuS14/fastapi-auth-service.git
 ```
 
 ---
