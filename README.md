@@ -37,7 +37,7 @@ source venv/bin/activate
 ### 3. Install dependencies
 
 ```bash
-python3 -m pip install fastapi uvicorn python-jose passlib[bcrypt]
+python3 -m pip install -r requirements.txt
 ```
 
 ---
